@@ -1,0 +1,6 @@
+.card {
+    background-color: var(--secondary-color);
+}
+.card form input {
+    text-align: center;
+}
